@@ -64,6 +64,7 @@
 .features div{
     float:left;
     margin-left: 200px;
+    margin-right: -50px;
     
     margin-bottom: 100px;
     margin-top: 70px;
@@ -81,9 +82,9 @@
     font-size: 17px;
 }
 .feat h3{
-    font-weight: bold;
+    font-weight: 800;
     font-family: "Work Sans", sans-serif;
-    font-size: 18px;
+    font-size: 18.1px;
     
 }
 .clear{
